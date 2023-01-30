@@ -1,0 +1,26 @@
+Tymoteusz 
+Twoj wiek: 21 
+Mezczyzna 
+Wybrano jednostki Metryczne. 
+Wzrost 177.00 
+Waga 86.00 
+Twoje obecne BMI wynosi : 27.45 
+ Nadwaga 
+Twoje BMR wynosi : 1987.710000 
+Basal Metabolic Rate - Metoda Revised Harris-Benedict 
+Lekko aktywny - (lekkie cwiczenia / sport 1-3 dni w tygodniu)
+Twoje TDEE wynosi : 2733 kcal 
+TDEE wymagane do osiagniecia prawidlowej masy ciala wynosi (BMI) : 2555 kcal 
+TDEE wymagane ; 2555 kcal 
+Nastepujaca tabela pokazuje makra wartosci w przyblizeniu, ktore powinienes jesc codziennie.  
+------------------------------------------------
+Gramy : 
+Bialko - 95 gramow
+Weglowodany - 342 gramow 
+Tluszcze - 110 gramow 
+------------------------------------------------
+Kilokalorie : 
+Bialko - 378 kcal 
+Weglowodany- 1367 kcal 
+Tluszcze - 988 kcal 
+------------------------------------------------

@@ -1,0 +1,4 @@
+C:\Users\tymot\Desktop\Projekt Geoinformacja\Debug\Projekt Geoinformacja.exe
+C:\Users\tymot\Desktop\Projekt Geoinformacja\Debug\Projekt Geoinformacja.pdb
+C:\Users\tymot\Desktop\Geoinformacja\C\Projekt Geoinformacja\Debug\Projekt Geoinformacja.exe
+C:\Users\tymot\Desktop\Geoinformacja\C\Projekt Geoinformacja\Debug\Projekt Geoinformacja.pdb
